@@ -1,0 +1,15 @@
+/home/nathanventura/Code/mini-projects/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/nathanventura/Code/mini-projects/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/nathanventura/Code/mini-projects/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/nathanventura/Code/mini-projects/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/nathanventura/Code/mini-projects/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.sourcelink.json
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/nathanventura/Code/mini-projects/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
